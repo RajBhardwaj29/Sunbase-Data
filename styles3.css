@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    text-align: left;
+}

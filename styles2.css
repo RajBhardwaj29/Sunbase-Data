@@ -1,0 +1,15 @@
+
+.info {
+    padding: 7px;
+    /* padding-left: 10px; */
+    border-radius: 5px;
+    margin: 5px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    padding: 7px 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
